@@ -12,11 +12,11 @@ This prototype mitigates this risk by implementing three authentication and auth
 ## Server.py
 ### Importing modules:
 
-<span class="image fit"><img src="modules.PNG" alt="" /></span>
+<span class="image fit"><img src="modules.png" alt="" /></span>
 
 ### Create and configure server socket:
 
-<span class="image fit"><img src="serversocket.PNG" alt="" /></span>
+<span class="image fit"><img src="serversocket.png" alt="" /></span>
 
 ### Define username and password:
 
