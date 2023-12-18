@@ -76,7 +76,7 @@ This prototype mitigates this risk by implementing three authentication and auth
 
 1. first launch the server then the client, server will listen for a connection by displaying waiting for a connection... and the client will ask for username.
 
-2. at the client end enter username, then it will request for a password, the password will be masked as asterisk. 
+2. from the server code copy the username and password and emter username at the client end, then it will request for a password, enter the password you copied the password will be masked as asterisk. 
 
 3. if you enter correct username and password client will login successful.
 
