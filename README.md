@@ -70,7 +70,7 @@ This prototype mitigates this risk by implementing three authentication and auth
 
 ## program video demonstration 
 
-<img src="video.gif">
+<img src="video1.gif">
 
 ## usage
 
